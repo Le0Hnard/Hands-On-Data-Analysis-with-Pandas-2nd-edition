@@ -1,7 +1,9 @@
-.ipynb_checkpoints
-__pycache__/
-*images/
-*egg-info
-*.png
-*.dot
-build/
+.bashrc
+.cache/
+.conda/
+.ipython/
+.jupyter-server-log.txt
+.jupyter/
+.local/
+.profile
+.bash_logout
